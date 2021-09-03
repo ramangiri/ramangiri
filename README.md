@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramangiri" alt="ramangiri" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/am_giri_raman" target="blank"><img src="https://img.shields.io/twitter/follow/am_giri_raman?logo=twitter&style=for-the-badge" alt="am_giri_raman" /></a> </p>
+
 
 - 🌱 I’m currently learning **Full Stack web developer**
 
