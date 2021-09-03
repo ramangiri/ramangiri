@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://giridharan.netlify.app/](https://giridharan.netlify.app/)
 
-- 📫 How to reach me **ramangiri93@gmaul.com**
+- 📫 How to reach me **ramangiri93@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aFoN1NvP3lTsobFHwcr4VFp_OfOoIet3/view](https://drive.google.com/file/d/1aFoN1NvP3lTsobFHwcr4VFp_OfOoIet3/view)
 
